@@ -1,0 +1,2 @@
+# shaktitailor
+Tailor management app
